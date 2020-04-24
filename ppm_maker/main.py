@@ -1,4 +1,5 @@
 # this project is done in collaboration with Jorge Henriquez (https://github.com/penguingovernor)
+# this program takes an image and pixelates it! 
 from PIL import Image
 import argparse
 import sys
